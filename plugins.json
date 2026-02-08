@@ -1,0 +1,60 @@
+{
+    "plugins": [
+        {
+            "id": "ophim",
+            "name": "OPhim",
+            "version": "1.0.3",
+            "scriptUrl": "http://stpaulclinic.vn/vaapp/plugins/ophim_plugin.js",
+            "iconUrl": "https://stpaulclinic.vn/vaapp/plugins/ophim.ico"
+        },
+        {
+            "id": "kkphim",
+            "name": "KKPhim",
+            "version": "1.0.1",
+            "scriptUrl": "http://stpaulclinic.vn/vaapp/plugins/kkphim_plugin.js",
+            "iconUrl": "https://stpaulclinic.vn/vaapp/plugins/kkphim.png"
+        },
+        {
+            "id": "nguonc",
+            "name": "Phim NguonC",
+            "version": "1.0.5",
+            "scriptUrl": "http://stpaulclinic.vn/vaapp/plugins/nguonc_plugin.js",
+            "iconUrl": "https://stpaulclinic.vn/vaapp/plugins/nguonC.png"
+        },
+        {
+            "id": "phimhdcs",
+            "name": "PhimHDCS",
+            "version": "1.0.1",
+            "scriptUrl": "http://stpaulclinic.vn/vaapp/plugins/phimhdcs_plugin.js",
+            "iconUrl": "https://phimhdcs.com/favicon.ico"
+        },
+        {
+            "id": "hh3d",
+            "name": "HH3D - Hoạt Hình 3D",
+            "version": "1.0.0",
+            "scriptUrl": "http://stpaulclinic.vn/vaapp/plugins/hh3d_plugin.js",
+            "iconUrl": "https://stpaulclinic.vn/vaapp/plugins/hh3d.ico"
+        },
+        {
+            "id": "missav",
+            "name": "MissAV",
+            "version": "1.0.0",
+            "scriptUrl": "http://stpaulclinic.vn/vaapp/plugins/missav_plugin.js",
+            "iconUrl": "https://stpaulclinic.vn/vaapp/plugins/missav.ico"
+        },
+        {
+            "id": "sextop1",
+            "name": "Sextop1",
+            "version": "1.0.8",
+            "scriptUrl": "http://stpaulclinic.vn/vaapp/plugins/sextop1_plugin.js",
+            "iconUrl": "https://stpaulclinic.vn/vaapp/plugins/sextop1.webp"
+        },
+        {
+            "id": "otruyen",
+            "name": "OTruyen",
+            "version": "1.0.0",
+            "scriptUrl": "http://stpaulclinic.vn/vaapp/plugins/otruyen_plugin.js",
+            "iconUrl": "https://otruyenapi.com/favicon.ico"
+        }
+    ]
+}
